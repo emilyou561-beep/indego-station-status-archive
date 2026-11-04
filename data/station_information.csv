@@ -1,0 +1,324 @@
+station_id,name,lat,lon,station_type
+3004,Municipal Services Building Plaza,39.95371,-75.16423,Kiosk and Station
+3005,"Welcome Park, NPS",39.94733,-75.14403,Kiosk and Station
+3006,40th & Spruce,39.9522,-75.20311,Kiosk and Station
+3007,"11th & Pine, Kahn Park",39.94517,-75.15993,Kiosk and Station
+3008,Temple University Station,39.98081,-75.15067,Kiosk and Station
+3009,33rd & Market,39.95576,-75.18982,Kiosk and Station
+3010,15th & Spruce,39.94711,-75.16618,Kiosk and Station
+3012,21st & Catharine,39.94218,-75.17747,Kiosk and Station
+3014,"21st & Winter, Franklin Institute",39.95886,-75.17369,Kiosk and Station
+3015,"4th & Walnut, NPS",39.94735,-75.14886,Kiosk and Station
+3016,"11th & Poplar, John F. Street Community Center",39.96892,-75.1547,Kiosk and Station
+3017,6th & Berks,39.98003,-75.14371,Kiosk and Station
+3018,12th & Filbert,39.95273,-75.15979,Kiosk and Station
+3019,6th & Race,39.95403,-75.14983,Kiosk and Station
+3020,University City Station,39.94855,-75.19007,Kiosk and Station
+3021,18th & JFK,39.9539,-75.16902,Kiosk and Station
+3022,Amtrak 30th Street Station,39.95472,-75.18323,Kiosk and Station
+3024,"43rd & Chester, Clark Park",39.94822,-75.20908,Kiosk and Station
+3025,11th & Washington,39.93724,-75.1612,Kiosk and Station
+3026,2nd & Lombard,39.94182,-75.1455,Kiosk and Station
+3028,4th & Bainbridge,39.94061,-75.14958,Kiosk and Station
+3029,36th & Sansom,39.9538,-75.19479,Kiosk and Station
+3031,13th & Montgomery,39.98005,-75.15522,Kiosk and Station
+3032,23rd & South,39.94527,-75.17971,Kiosk and Station
+3033,10th & Chestnut,39.95005,-75.15672,Kiosk and Station
+3034,11th & Reed,39.93315,-75.16248,Kiosk and Station
+3035,Dornsife Center,39.96271,-75.19419,Kiosk and Station
+3037,Pennsylvania Convention Center,39.95424,-75.16138,Kiosk and Station
+3038,The Children's Hospital of Philadelphia (CHOP),39.94781,-75.19409,Kiosk and Station
+3039,Broad & Girard,39.97157,-75.15993,Kiosk and Station
+3040,17th & Spring Garden,39.96289,-75.16606,Kiosk and Station
+3041,"Girard Station, MFL",39.96849,-75.13546,Kiosk and Station
+3047,"Independence Mall, NPS",39.95073,-75.14947,Kiosk and Station
+3049,Foglietta Plaza,39.94509,-75.1425,Kiosk and Station
+3051,23rd & Fairmount,39.96744,-75.17507,Kiosk and Station
+3052,9th & Locust,39.94732,-75.15695,Kiosk and Station
+3053,Point Breeze & Tasker,39.93231,-75.18154,Kiosk and Station
+3054,Rodin Museum,39.9625,-75.1742,Kiosk and Station
+3055,8th & Market,39.95112,-75.15457,Kiosk and Station
+3056,Broad & Oxford,39.97669,-75.15813,Kiosk and Station
+3057,Philadelphia Museum of Art,39.96439,-75.17987,Kiosk and Station
+3059,"Spring Garden Station, BSL",39.96244,-75.16121,Kiosk and Station
+3060,Free Library of Philadelphia - Central Library,39.95923,-75.17036,Kiosk and Station
+3063,17th & Pine,39.94633,-75.1698,Kiosk and Station
+3064,"18th & Washington, Chew Playground",39.9384,-75.17327,Kiosk and Station
+3065,Girard & Hutchinson,39.9707,-75.15171,Kiosk and Station
+3066,19th & Lombard,39.94561,-75.17348,Kiosk and Station
+3067,"39th & Mt. Vernon, Mantua Haverford Community Center",39.96411,-75.19973,Kiosk and Station
+3068,Broad & Federal,39.93549,-75.16711,Kiosk and Station
+3069,4th & Christian,39.93704,-75.15038,Kiosk and Station
+3072,Front & Carpenter,39.93445,-75.14541,Kiosk and Station
+3073,9th & Spring Garden,39.96143,-75.15242,Kiosk and Station
+3074,44th & Walnut,39.95511,-75.20987,Kiosk and Station
+3075,Fairmount & Ridge,39.96718,-75.16125,Kiosk and Station
+3077,17th & Girard,39.97207,-75.16351,Kiosk and Station
+3078,19th & Market,39.95355,-75.17192,Kiosk and Station
+3086,Broad & Christian,39.94019,-75.16691,Kiosk and Station
+3088,3rd & Girard,39.96984,-75.1418,Kiosk and Station
+3093,33rd & Diamond,39.98837,-75.18701,Kiosk and Station
+3096,29th & Dauphin,39.99119,-75.17975,Kiosk and Station
+3097,"Berks Station, MFL",39.97888,-75.13339,Kiosk and Station
+3098,10th & Federal,39.93431,-75.16042,Kiosk and Station
+3099,4th & Washington,39.93401,-75.15094,Kiosk and Station
+3100,Moyamensing & Tasker,39.92777,-75.15103,Kiosk and Station
+3101,11th & South,39.94295,-75.15955,Kiosk and Station
+3102,"Pennsylvania & Fairmount, Perelman Building",39.96759,-75.17952,Kiosk and Station
+3106,33rd & Dauphin,39.99179,-75.18637,Kiosk and Station
+3107,33rd & Reservoir,39.98203,-75.18866,Kiosk and Station
+3110,Del. River Trail & Penn St.,39.96175,-75.13641,Kiosk and Station
+3111,"Parkside & Belmont, Case Building",39.97779,-75.21323,Kiosk and Station
+3112,48th & Spruce,39.95373,-75.21825,Kiosk and Station
+3113,Philadelphia Zoo,39.97472,-75.19781,Kiosk and Station
+3114,22nd & Federal,39.93775,-75.18012,Kiosk and Station
+3115,"19th & Girard, PTTI",39.97263,-75.16757,Kiosk and Station
+3116,Barnes Foundation,39.96006,-75.17198,Kiosk and Station
+3117,ParkWest Town Center,39.97841,-75.22399,Kiosk and Station
+3118,"46th Street Station, MFL",39.95866,-75.21323,Kiosk and Station
+3119,42nd & Lancaster,39.96674,-75.20799,Kiosk and Station
+3120,31st & Girard,39.97522,-75.18669,Kiosk and Station
+3123,22nd & Cecil B. Moore,39.98004,-75.17088,Kiosk and Station
+3124,Race Street Pier,39.95367,-75.13956,Kiosk and Station
+3125,15th & South,39.94391,-75.16735,Kiosk and Station
+3150,"15th & Castle, DiSilvestro Playground",39.92884,-75.17021,Kiosk and Station
+3152,"40th & Baltimore, Trolley Portal",39.94993,-75.20286,Kiosk and Station
+3154,12th & Callowhill,39.95924,-75.15821,Kiosk and Station
+3155,7th & Fitzwater,39.94018,-75.15442,Kiosk and Station
+3156,20th & Market,39.95381,-75.17407,Kiosk and Station
+3157,"8th & Mifflin, Bok Building",39.92545,-75.15954,Kiosk and Station
+3158,Broad & Passyunk ,39.92552,-75.16904,Kiosk and Station
+3159,38th & Spruce,39.95121,-75.19962,Kiosk and Station
+3160,38th & Market,39.95662,-75.19862,Kiosk and Station
+3162,27th & South,39.94595,-75.18475,Kiosk and Station
+3163,25th & Locust,39.94974,-75.18097,Kiosk and Station
+3164,12th & Passyunk,39.92814,-75.16515,Kiosk and Station
+3165,24th & Race SRT,39.95819,-75.1782,Kiosk and Station
+3169,2nd & Race,39.95382,-75.14263,Kiosk and Station
+3181,Crescent Park,39.89629,-75.17514,Kiosk and Station
+3183,15th & Kitty Hawk,39.88994,-75.17679,Kiosk and Station
+3184,Health Sciences Drive,39.94573,-75.19551,Kiosk and Station
+3185,11th & Market ,39.95169,-75.15888,Kiosk and Station
+3187,20th & Race,39.95725,-75.17232,Kiosk and Station
+3188,"Broad & Pattison, BSL",39.90471,-75.1734,Kiosk and Station
+3196,25th & Diamond,39.98717,-75.17477,Kiosk and Station
+3197,Broad & Ritner,39.92083,-75.17033,Kiosk and Station
+3200,Ridge & Master,39.97583,-75.16846,Kiosk and Station
+3201,16th & Arch,39.95523,-75.1662,Kiosk and Station
+3203,18th & Christian,39.94077,-75.17227,Kiosk and Station
+3204,17th & Green,39.96437,-75.16582,Kiosk and Station
+3205,17th & JFK,39.95405,-75.16783,Kiosk and Station
+3207,34th & Chestnut,39.95441,-75.192,Kiosk and Station
+3208,34th & Spruce,39.95048,-75.19324,Kiosk and Station
+3209,45th & Baltimore,39.949,-75.21278,Kiosk and Station
+3210,Broad & Diamond,39.98492,-75.15668,Kiosk and Station
+3211,Corinthian & Poplar,39.97172,-75.1706,Kiosk and Station
+3212,Schuylkill Banks Pergola,39.96383,-75.18177,Kiosk and Station
+3213,Broad & Carpenter,39.93887,-75.16663,3.0 Dock Station
+3226,2nd & Norris,39.98101,-75.13721,Kiosk and Station
+3233,Franklin & Race,39.95509,-75.15172,Kiosk and Station
+3235,16th & Callowhill,39.96,-75.1651,Kiosk and Station
+3236,24th & Pennsylvania ,39.96566,-75.17765,Kiosk and Station
+3237,Broad & Oregon,39.91717,-75.17096,Kiosk and Station
+3238,Aramingo & Cumberland,39.97674,-75.11995,Kiosk and Station
+3240,44th & Haverford,39.96277,-75.21185,Kiosk and Station
+3241,"52nd & Larchwood, Malcolm X Park",39.95225,-75.22637,Kiosk and Station
+3243,8th & Diamond,39.9835,-75.14743,Kiosk and Station
+3245,Broad & Cecil B. Moore,39.97887,-75.15777,Kiosk and Station
+3246,50th & Baltimore,39.94782,-75.22301,Kiosk and Station
+3247,"47th & Aspen, Lucien Blackwell",39.96538,-75.21514,Kiosk and Station
+3248,24th & Christian,39.94213,-75.18335,Kiosk and Station
+3249,34th & Arch,39.95784,-75.19079,Kiosk and Station
+3250,4th & Wood,39.95673,-75.14575,Kiosk and Station
+3251,29th & Tasker,39.93366,-75.19319,Kiosk and Station
+3252,30th & Oakford,39.93882,-75.19324,Kiosk and Station
+3253,"26th & Moore, Vare Recreation Center",39.93074,-75.18924,Kiosk and Station
+3254,16th & Montgomery,39.98091,-75.16065,Kiosk and Station
+3255,Broad & Chestnut,39.95095,-75.16438,3.0 Dock Station
+3256,23rd & Chestnut,39.95269,-75.17779,Kiosk and Station
+3258,52nd & Chestnut,39.95828,-75.22424,Kiosk and Station
+3259,Saunders & Pearl,39.95998,-75.19883,Kiosk and Station
+3261,2nd & Brown,39.96304,-75.14099,Kiosk and Station
+3263,43rd & Powelton,39.9586,-75.2081,Kiosk and Station
+3264,8th & Spruce,39.94571,-75.15508,Kiosk and Station
+3265,Powelton & Lancaster,39.95957,-75.19633,Kiosk and Station
+3266,Water & Mifflin,39.9237,-75.14701,Kiosk and Station
+3267,19th & Oregon,39.918,-75.1796,Kiosk and Station
+3268,10th & Oxford,39.97633,-75.15101,Kiosk and Station
+3271,53rd & Baltimore,39.9476,-75.22946,Kiosk and Station
+3272,50th & Haverford,39.96405,-75.22048,Kiosk and Station
+3275,York & Aramingo,39.97576,-75.12157,Kiosk and Station
+3276,12th & Fairmount,39.96569,-75.15679,Kiosk and Station
+3277,20th & Berks,39.98306,-75.16738,Kiosk and Station
+3278,22nd & Sedgley,39.99301,-75.1681,Kiosk and Station
+3279,13th & Mifflin,39.9265,-75.1668,Kiosk and Station
+3280,50th & Woodland,39.93968,-75.21362,Kiosk and Station
+3281,Lindbergh & Wheeler,39.9323,-75.2162,Kiosk and Station
+3282,10th & Nevada,39.98628,-75.14925,Kiosk and Station
+3284,Midvale & Cresson,40.01112,-75.19287,3.0 Dock Station
+3285,5th & Willow,39.95946,-75.14745,Kiosk and Station
+3286,6th & Brown,39.96409,-75.14769,Kiosk and Station
+3287,49th & Chester,39.94367,-75.21606,Kiosk and Station
+3291,Ridge & Heritage,40.01022,-75.197,3.0 Dock Station
+3292,5th & Wolf,39.92,-75.1562,3.0 Dock Station
+3294,18th & Chestnut,39.95174,-75.17063,3.0 Dock Station
+3295,12th & Chestnut,39.95028,-75.16027,3.0 Dock Station
+3296,16th & Chestnut,39.95134,-75.16758,3.0 Dock Station
+3297,18th & Vine,39.95821,-75.16901,3.0 Dock Station
+3298,42nd & Woodland,39.94717,-75.20691,3.0 Dock Station
+3299,9th & Lombard,39.94332,-75.15698,3.0 Dock Station
+3300,Broad & Cherry,39.95511,-75.16287,3.0 Dock Station
+3301,18th & Walnut,39.95029,-75.17126,3.0 Dock Station
+3303,41st & Chestnut,39.9559,-75.2053,3.0 Dock Station
+3304,7th & South,39.94234,-75.15399,3.0 Dock Station
+3305,22nd & Lehigh,39.99569,-75.1671,3.0 Dock Station
+3306,28th & Lehigh,39.99683,-75.17761,3.0 Dock Station
+3307,27th & Clearfield,40.0028,-75.174,3.0 Dock Station
+3310,Oxford & Glenwood,39.98024,-75.18651,3.0 Dock Station
+3313,10th & Oregon,39.9158,-75.1643,3.0 Dock Station
+3314,Front & Queen,39.93682,-75.14492,3.0 Dock Station
+3315,48th & Woodland,39.94235,-75.21138,3.0 Dock Station
+3316,16th & Wolf,39.92255,-75.17337,3.0 Dock Station
+3318,City Hall South,39.95182,-75.16395,3.0 Dock Station
+3319,Penn Treaty Park,39.96672,-75.12964,3.0 Dock Station
+3320,Broad & Master,39.9746,-75.15917,3.0 Dock Station
+3321,20th & Cuthbert,39.95485,-75.17298,3.0 Dock Station
+3322,7th & Passyunk,39.93638,-75.15526,3.0 Dock Station
+3323,Manayunk Bridge,40.02796,-75.2277,3.0 Dock Station
+3324,"Kelly Drive, Strawberry Mansion Bridge",39.99484,-75.19242,3.0 Dock Station
+3325,Cedar & Norris,39.9768,-75.12764,Kiosk and Station
+3326,"M.L.K. Drive, Strawberry Mansion Bridge",39.99198,-75.19944,3.0 Dock Station
+3327,York & Gaul,39.97759,-75.12442,3.0 Dock Station
+3328,Kelly Drive Grandstand,39.98798,-75.1995,3.0 Dock Station
+3329,Cresson & Levering,40.02651,-75.22445,3.0 Dock Station
+3331,Girard & Palmer,39.97116,-75.12813,3.0 Dock Station
+3332,32nd & Allegheny,40.00537,-75.18143,3.0 Dock Station
+3333,18th & JFK Curbside,39.9541,-75.16965,3.0 Dock Station
+3334,7th & Dickinson,39.9302,-75.15636,3.0 Dock Station
+3335,Main & Shurs,40.02237,-75.218,3.0 Dock Station
+3336,36th & Filbert,39.95719,-75.19388,3.0 Dock Station
+3337,6th & Master,39.97318,-75.14612,Kiosk and Station
+3338,54th & Cedar,39.95098,-75.23035,Kiosk and Station
+3340,27th & Pennsylvania,39.96906,-75.18169,Kiosk and Station
+3341,York & Trenton,39.98131,-75.12732,Kiosk and Station
+3342,22nd & Spring Garden,39.9639,-75.17385,3.0 Dock Station
+3344,56th & Chestnut,39.95961,-75.23354,Kiosk and Station
+3345,5th & Spring Garden,39.9617,-75.14667,3.0 Dock Station
+3346,6th & Chestnut,39.94883,-75.15097,3.0 Dock Station
+3349,25th & Wharton,39.93651,-75.18621,3.0 Dock Station
+3350,Broad & Lehigh,39.99415,-75.15527,Kiosk and Station
+3351,12th & Cambria,39.99655,-75.14991,Kiosk and Station
+3352,Broad & Allegheny,40.00143,-75.15256,3.0 Dock Station
+3353,"Broad & Ontario, Temple Hospital",40.00496,-75.15233,3.0 Dock Station
+3354,58th & Spruce,39.95628,-75.2387,3.0 Dock Station
+3356,12th & Normandy,39.89322,-75.17187,3.0 Dock Station
+3357,10th & Packer,39.9104,-75.16588,3.0 Dock Station
+3359,17th & Locust,39.94888,-75.16978,3.0 Dock Station
+3360,Broad & Reed,39.93304,-75.16822,Kiosk and Station
+3361,"18th & Fernon, Aquinas Center",39.93082,-75.17474,3.0 Dock Station
+3362,13th & Locust,39.94816,-75.16226,3.0 Dock Station
+3363,13th & Spruce,39.94655,-75.16263,3.0 Dock Station
+3365,"32nd & Baring, Drexel Park",39.96173,-75.18788,3.0 Dock Station
+3368,23rd & Master,39.97647,-75.17362,Kiosk and Station
+3369,Ridge & Ferry,40.00772,-75.19194,3.0 Dock Station
+3370,Pencoyd Bridge,40.0163,-75.21241,3.0 Dock Station
+3371,9th & Arch,39.9534,-75.1543,3.0 Dock Station
+3372,24th & Jackson,39.92528,-75.18672,3.0 Dock Station
+3373,11th & Wood,39.95817,-75.15668,3.0 Dock Station
+3374,26th & Poplar,39.9728,-75.17971,Kiosk and Station
+3375,"Spring Garden Station, MFL",39.96036,-75.1402,3.0 Dock Station
+3376,Thompson & Franklin,39.97183,-75.14878,3.0 Dock Station
+3378,4th & Arch,39.95238,-75.14728,3.0 Dock Station
+3381,48th & Baltimore,39.94845,-75.21807,3.0 Dock Station
+3382,Walnut & Rittenhouse,39.95038,-75.17309,3.0 Dock Station
+3383,"3rd & Wildey, Liberty Lands Park",39.96634,-75.14222,3.0 Dock Station
+3385,8th & Chestnut,39.94974,-75.15424,Kiosk and Station
+3386,10th & Cuthbert,39.95297,-75.15614,Kiosk and Station
+3387,6th & Girard,39.97012,-75.14666,Kiosk and Station
+3388,8th & Brown,39.96634,-75.15097,Kiosk and Station
+3389,Grays Ferry & Pemberton,39.94431,-75.18128,3.0 Dock Station
+3390,"52nd St Station, MFL ",39.96,-75.2244,Kiosk and Station
+3391,54th & City Ave,39.99667,-75.23482,3.0 Dock Station
+3392,30th & Reed,39.93633,-75.19447,Kiosk and Station
+3393,2nd & George,39.96727,-75.13999,Kiosk and Station
+3394,Broad & Snyder,39.924,-75.16959,Kiosk and Station
+3395,12th & Carpenter,39.93866,-75.16351,Kiosk and Station
+3396,21st & Passyunk,39.92327,-75.1821,Kiosk and Station
+3397,21st & Washington,39.93906,-75.17824,Kiosk and Station
+3398,4th & Oregon,39.91551,-75.15474,Kiosk and Station
+3399,American & Oxford,39.97502,-75.14006,Kiosk and Station
+3400,12th & Walnut,39.949,-75.16081,3.0 Dock Station
+3403,Wynnefield Station,39.99153,-75.22528,Kiosk and Station
+3404,57th & Master,39.97347,-75.23491,Kiosk and Station
+3405,Fitzwater & Juniper,39.94167,-75.16502,3.0 Dock Station
+3407,American & Berks,39.9785,-75.13911,3.0 Dock Station
+3408,2nd & Snyder,39.9216,-75.15,3.0 Dock Station
+3409,"7th & Race, Franklin Square",39.95508,-75.15128,3.0 Dock Station
+3410,"51st & Regent, Kingsessing Library",39.94201,-75.21838,3.0 Dock Station
+3411,57th & Westminster ,39.96693,-75.23359,Kiosk and Station
+3412,Cobbs Creek & Florence,39.93771,-75.23373,Kiosk and Station
+3413,47th & Lancaster,39.97115,-75.21596,Kiosk and Station
+3414,54th & Chester,39.93922,-75.22347,3.0 Dock Station
+3418,Broad & Erie ,40.00924,-75.15198,3.0 Dock Station
+3422,JFK Blvd at Schuylkill Yards,39.95619,-75.18647,3.0 Dock Station
+3423,"Ridge & Pensdale, Kendrick Recreation Center",40.02826,-75.21106,3.0 Dock Station
+3425,"York-Dauphin Station, MFL",39.9849,-75.13255,Kiosk and Station
+3426,58th & Kingsessing,39.93448,-75.22764,Kiosk and Station
+3427,"Aramingo & Huntingdon, Aramingo Square",39.97961,-75.11844,3.0 Dock Station
+3428,57th & Diamond,39.98707,-75.23722,Kiosk and Station
+3430,27th & Girard,39.97408,-75.1801,3.0 Dock Station
+3431,62nd & Market,39.96239,-75.24522,Kiosk and Station
+3432,"Manayunk & Conarroe, Fairview Park",40.03055,-75.21983,3.0 Dock Station
+3434,"Frankford & Columbia, Palmer Park",39.97487,-75.13286,3.0 Dock Station
+3435,Huntingdon & Collins,39.98451,-75.12348,Kiosk and Station
+3436,Allegheny & Richmond,39.98287,-75.10121,Kiosk and Station
+3437,Schuylkill & Wharton,39.93931,-75.20336,Kiosk and Station
+3438,"Cedar & Cambria, Cohocksink Recreation Center",39.98421,-75.11304,Kiosk and Station
+3439,"Lehigh & B, Temple Episcopal Hospital",39.99033,-75.12759,Kiosk and Station
+3440,Almond & Indiana,39.98306,-75.10836,Kiosk and Station
+3441,22nd & Hamilton,39.96305,-75.17454,3.0 Dock Station
+3442,Kensington & F,39.99426,-75.11791,Kiosk and Station
+3443,Terrace & Hermit,40.02155,-75.21339,3.0 Dock Station
+3444,23rd & Venango,40.00959,-75.16596,3.0 Dock Station
+3445,Frankford & Crease,39.97235,-75.13426,3.0 Dock Station
+3446,Overbrook Station,39.9906,-75.249,3.0 Dock Station
+3447,2nd & Market,39.95009,-75.14467,3.0 Dock Station
+3448,Broad & Christian East,39.93995,-75.16604,3.0 Dock Station
+3449,6th & S Washington Sq,39.94628,-75.15138,3.0 Dock Station
+3450,53rd & Morse,39.98525,-75.2287,3.0 Dock Station
+3451,FDR Park,39.90505,-75.17585,Kiosk and Station
+3452,Columbus & Spring Garden,39.95991,-75.13696,3.0 Dock Station
+3453,60th & Columbia,39.98139,-75.24036,Kiosk and Station
+3454,4th & Lombard,39.9428,-75.14887,3.0 Dock Station
+3455,Moyamensing & Bigler,39.91486,-75.17691,Kiosk and Station
+3459,63rd & Buist,39.92232,-75.22694,Kiosk and Station
+3460,70th & Elmwood,39.91751,-75.23722,Kiosk and Station
+3461,"69th & Guyer, James Finnegan Playground",39.91532,-75.23281,Kiosk and Station
+3462,20th & Sansom,39.95135,-75.17391,3.0 Dock Station
+3463,Germantown & St Paul,40.01944,-75.15584,3.0 Dock Station
+3464,53rd & Poplar,39.97031,-75.22688,3.0 Dock Station
+3465,18th & Pike,40.01309,-75.15714,3.0 Dock Station
+3466,19th & Fairmount ,39.96731,-75.16902,3.0 Dock Station
+3468,Snyder & Dorrance,39.92525,-75.1769,Kiosk and Station
+3469,10th & Phillies,39.90763,-75.16648,3.0 Dock Station
+3470,22nd & Spruce,39.94868,-75.1781,3.0 Dock Station
+3471,65th & Woodland,39.92535,-75.23422,Kiosk and Station
+3472,Bryn Mawr & City Ave,39.99897,-75.23062,3.0 Dock Station
+3473,23rd & Market ,39.95427,-75.17758,3.0 Dock Station
+3477,17th & Sansom,39.95081,-75.16953,3.0 Dock Station
+3478,24th & Sansom,39.95197,-75.17943,3.0 Dock Station
+3479,Water & Snyder,39.92133,-75.1474,3.0 Dock Station
+3480,Wissahickon Transportation Center,40.01516,-75.20717,3.0 Dock Station
+3481,Fairmount & Delaware,39.96094,-75.1373,3.0 Dock Station
+3482,8th & Christian,39.9385,-75.15583,Kiosk and Station
+3483,62nd & Woodland,39.92866,-75.22984,3.0 Dock Station
+3484,Kelly Drive & Sedgley,39.96931,-75.1841,3.0 Dock Station
+3485,13th & Oregon,39.91632,-75.16948,3.0 Dock Station
+3486,3rd & Lehigh,39.99155,-75.13719,Kiosk and Station
+3487,Huntingdon & Fairhill,39.99071,-75.1416,Kiosk and Station
+3489,30th Street Station South ,39.9546,-75.18243,3.0 Dock Station
+3491,Germantown Station,40.03807,-75.17229,3.0 Dock Station
+3493,Wayne Junction,40.02282,-75.15927,3.0 Dock Station
+3494,Queen Lane Station,40.02343,-75.17759,3.0 Dock Station
+3496,Wayne & Logan,40.02458,-75.1664,3.0 Dock Station
+3499,School House & Cherry,40.02297,-75.18873,3.0 Dock Station
